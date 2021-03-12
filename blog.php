@@ -10,12 +10,12 @@ $m = "\e[91m";
 
 echo " _____________________________\n";
 echo "  Tools   : View Blog and Yt\n";
-echo "  Creadby : root@M3e.X~#\n";
-echo "  Team    : Attack Of Cyber | Zone-Xploiter | Indonesia Security Lite\n";
+echo "  Creadby : ezzahirochi~#\n";
+echo "  Team    : Hacker Gelo | Zona Kritis | Indonesia Wonderfull\n";
 echo " _____________________________\n";
 echo "\n\n";
 echo "$m Note : \n\n";
-echo file_get_contents("https://pastebin.com/raw/JUMTDEyi\n");
+echo file_get_contents("https://pastebin.com/z05zSJgq\n");
 echo " \n\n";
 echo " Thanks For Using My Tools :) \n\n";
 echo "$biru  Nama Website : ";
