@@ -12,7 +12,7 @@ $ pkg install php
 
 $ pkg install git
 
-$ git clone https://github.com/rootM3eX/ViewBlog/
+$ git clone https://github.com/ezzahirochi/ViewBlog.git
 
 $ cd ViewBlog
 
