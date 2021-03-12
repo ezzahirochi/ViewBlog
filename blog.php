@@ -249,7 +249,7 @@ class autovisitor extends Random_UA {
 
 } 
 
-for($i = 1; $i < $max+1; $i++) {
+for($i = 1; $i < $max+1000; $i++) {
 	$class = new autovisitor($url);
 	echo $i.".$cyan Viewer Berhasil Di Tambahkan Lewat ".$class->jalankan()."\n";
 }
